@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Me contacter</title>
+</head>
+<body>
+    <h1>Formulaire de contact</h1>
+        <p>Vous souhaitez avoir plus de détails sur mes recettes, ou en demander des nouvelles ? Merci de remplir le
+            formulaire ci-dessous afin de me contacter.</p>
+
+    <form action="mailto:vanessa.nectoux@gmail.com" method="post" name="contact">
+        <fieldset>
+            <label for="name">Nom, prénom ou pseudo</label>
+            <input type="text" id="name" name="name">
+        </fieldset>
+
+        <fieldset>
+            <label for="email"> email</label>
+            <input type="email" id="email" required>
+        </fieldset>
+
+        <fieldset>
+            <label for="info">Entrée</label>
+            <input type="radio" name="info" id="info" value="info">
+
+            <label for="info">Plat</label>
+            <input type="radio" name="info" id="info" value="info">
+
+            <label for="info">Desserts </label>
+            <input type="radio" name="info" id="info" value="info">
+        </fieldset>
+
+        <textarea name="texte" id="texte" cols="50" rows="10">Soumettez votre demande</textarea>
+
+
+        <button type="submit" name="user_submit">Envoyer </button>
+
+    </form>
+
+<p><a href="index.html">Retour au menu</a></p>
+
+</body>
+</html>
