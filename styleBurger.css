@@ -1,0 +1,57 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: black;
+    text-shadow: 8px 8px 10px black;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-family:fantasy ;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+#tableau{
+    color: black;
+    font-weight: bold ;
+}
+
+#p1{
+    background-color: black;
+    color: burlywood;
+    border-radius: 15px 15px 15px 15px;;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+}
+
+#p2{
+    background-color: black;
+    color:burlywood;
+    border-radius: 15px 15px 15px 15px;
+    font-weight: bold;
+    font-size: 20px;
+    float: right ;
+    width: 200px;
+}
+
+#p3{
+    background-color: black;
+    color: burlywood;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 10px;
+    float: right;
+    padding: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+#image{
+    margin-left: 200px;
+    width: 300px;
+}

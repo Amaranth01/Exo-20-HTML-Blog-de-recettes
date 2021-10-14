@@ -1,0 +1,38 @@
+h1{
+    font-size:50px;
+    background-color: orangered;
+    text-align: center;
+    color: whitesmoke;
+    border: 12px black double;
+}
+
+h2{
+    font-size:30px;
+    background-color: sandybrown;
+    text-align: center;
+    color: whitesmoke;
+    border: 4px black dashed;
+}
+
+.plats{
+    font-size:20px;
+    background-color: coral;
+    text-align: center;
+    color: whitesmoke;
+    border: 2px black dotted;
+}
+
+.paragraphes{
+    text-align: justify;
+    border: solid;
+    border-radius: 15px;
+    box-shadow: 6px 6px 0px;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.image{
+    margin-left: 600px;
+    margin-right: auto;
+    width: 500px;
+}

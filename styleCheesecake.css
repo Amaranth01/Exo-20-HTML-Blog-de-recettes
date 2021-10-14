@@ -1,0 +1,59 @@
+body{
+    background-color: indianred;
+}
+
+h1{
+    color: whitesmoke;
+    text-shadow: 8px 8px 10px whitesmoke;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-family:fantasy ;
+    font-size: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#tableau{
+    color: whitesmoke;
+    font-weight: bold ;
+}
+
+#p1{
+    background-color: whitesmoke;
+    color: indianred;
+    border-radius: 15px 15px 15px 15px;;
+    font-weight: bold;
+    font-size: 20px;
+    width: 300px;
+
+}
+
+#p2{
+    background-color:whitesmoke;
+    color:indianred;
+    border-radius: 15px 15px 15px 15px;
+    font-weight: bold;
+    font-size: 20px;
+    float: right ;
+    width: 200px;
+    margin-right: 30px;
+}
+
+#p3{
+    background-color: whitesmoke;
+    color: indianred;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 10px;
+    float: right;
+    padding: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+#image{
+    margin-left: 500px;
+    width: 500px;
+}
